@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug involving an unclosed paragraph tag.  The bug.html file contains the erroneous code. The solution.html file shows the corrected code.  Unclosed tags can cause unexpected rendering problems across different browsers and can make debugging more difficult. Proper nesting and closing of tags is essential for clean and consistent HTML.
